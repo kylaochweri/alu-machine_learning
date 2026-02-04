@@ -5,4 +5,3 @@
 def np_shape(matrix):
     """Calculates the shape of an Ndarray"""
     return tuple(matrix.shape)
-
