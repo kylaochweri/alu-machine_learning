@@ -31,3 +31,4 @@ def poly_derivative(poly):
         if not derivative:
             return [0]
         return derivative
+    
