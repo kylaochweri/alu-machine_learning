@@ -155,4 +155,3 @@ class NeuralNetwork:
         # evaluate the gradient descent
         evaluation = self.evaluate(X, Y)
         return evaluation
-    
