@@ -85,3 +85,4 @@ def autoencoder(input_dims, hidden_layers, latent_dims, lambtha):
                  loss='binary_crossentropy')
 
     return encoder, decoder, auto
+    
